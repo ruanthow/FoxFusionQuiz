@@ -1,2 +1,0 @@
-# FoxFusionQuiz
-QuizGgames
